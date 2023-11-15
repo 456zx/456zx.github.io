@@ -14,18 +14,6 @@
                 href="https://example.com/en/categories/"
                 />
   </url><url>
-    <loc>https://example.com/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/en/"
-                />
-  </url><url>
     <loc>https://example.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +24,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/en/tags/"
+                />
+  </url><url>
+    <loc>https://example.com/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://example.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/"
                 />
   </url>
 </urlset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>第一个网站 on 一区王者</title>
+        <link>https://example.com/tags/%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99/</link>
+        <description>Recent content in 第一个网站 on 一区王者</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>一区王者</copyright>
+        <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>这是我的第一个博客网站</title>
+        <link>https://example.com/p/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/</link>
+        <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/</guid>
+        <description>&lt;hr&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
